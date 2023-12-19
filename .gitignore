@@ -1,4 +1,6 @@
 venv/
 csvFolder/
-*.zip
 *.pdf
+real-data/
+real-data-copy/
+real-data-m4a/
