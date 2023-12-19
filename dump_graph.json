@@ -5,7 +5,6 @@
         "snore_count": 35,
         "max_db": 86.63,
         "event_type": "none",
-        "start_db": 30.38,
         "color_level": "Quiet"
     },
     {
@@ -14,7 +13,6 @@
         "snore_count": 44,
         "max_db": 80.79,
         "event_type": "snore",
-        "start_db": 14.93,
         "color_level": "Loud"
     },
     {
@@ -23,7 +21,6 @@
         "snore_count": 30,
         "max_db": 77.62,
         "event_type": "none",
-        "start_db": 3.95,
         "color_level": "Loud"
     },
     {
@@ -32,7 +29,6 @@
         "snore_count": 65,
         "max_db": 68.52,
         "event_type": "none",
-        "start_db": 10.42,
         "color_level": "Severe"
     },
     {
@@ -41,7 +37,6 @@
         "snore_count": 44,
         "max_db": 86.58,
         "event_type": "none",
-        "start_db": 4.32,
         "color_level": "Severe"
     },
     {
@@ -50,7 +45,6 @@
         "snore_count": 67,
         "max_db": 86.44,
         "event_type": "snore",
-        "start_db": 18.52,
         "color_level": "Loud"
     },
     {
@@ -59,7 +53,6 @@
         "snore_count": 47,
         "max_db": 84.41,
         "event_type": "none",
-        "start_db": 25.08,
         "color_level": "Loud"
     },
     {
@@ -68,7 +61,6 @@
         "snore_count": 64,
         "max_db": 83.65,
         "event_type": "none",
-        "start_db": 1.95,
         "color_level": "Severe"
     },
     {
@@ -77,7 +69,6 @@
         "snore_count": 79,
         "max_db": 85.61,
         "event_type": "none",
-        "start_db": 2.16,
         "color_level": "Severe"
     },
     {
@@ -86,7 +77,6 @@
         "snore_count": 15,
         "max_db": 89.97,
         "event_type": "none",
-        "start_db": 1.24,
         "color_level": "Loud"
     },
     {
@@ -95,7 +85,6 @@
         "snore_count": 117,
         "max_db": 85.53,
         "event_type": "snore",
-        "start_db": 3.86,
         "color_level": "Loud"
     },
     {
@@ -104,7 +93,6 @@
         "snore_count": 86,
         "max_db": 84.13,
         "event_type": "none",
-        "start_db": 11.77,
         "color_level": "Loud"
     },
     {
@@ -113,7 +101,6 @@
         "snore_count": 74,
         "max_db": 74.31,
         "event_type": "snore",
-        "start_db": 9.68,
         "color_level": "Loud"
     },
     {
@@ -122,7 +109,6 @@
         "snore_count": 36,
         "max_db": 76.4,
         "event_type": "none",
-        "start_db": 5.25,
         "color_level": "Loud"
     },
     {
@@ -131,7 +117,6 @@
         "snore_count": 79,
         "max_db": 85.01,
         "event_type": "none",
-        "start_db": 5.38,
         "color_level": "Loud"
     },
     {
@@ -140,7 +125,6 @@
         "snore_count": 58,
         "max_db": 88.28,
         "event_type": "none",
-        "start_db": 0.05,
         "color_level": "Loud"
     },
     {
@@ -149,7 +133,6 @@
         "snore_count": 70,
         "max_db": 89.9,
         "event_type": "snore",
-        "start_db": 10.14,
         "color_level": "Loud"
     },
     {
@@ -158,7 +141,6 @@
         "snore_count": 57,
         "max_db": 88.96,
         "event_type": "none",
-        "start_db": 3.48,
         "color_level": "Loud"
     },
     {
@@ -167,7 +149,6 @@
         "snore_count": 36,
         "max_db": 83.73,
         "event_type": "none",
-        "start_db": 1.87,
         "color_level": "Loud"
     },
     {
@@ -176,7 +157,6 @@
         "snore_count": 51,
         "max_db": 88.72,
         "event_type": "snore",
-        "start_db": 0.47,
         "color_level": "Loud"
     },
     {
@@ -185,7 +165,6 @@
         "snore_count": 59,
         "max_db": 79.32,
         "event_type": "snore",
-        "start_db": 33.79,
         "color_level": "Loud"
     },
     {
@@ -194,7 +173,6 @@
         "snore_count": 55,
         "max_db": 88.42,
         "event_type": "none",
-        "start_db": 2.05,
         "color_level": "Loud"
     },
     {
@@ -203,7 +181,6 @@
         "snore_count": 64,
         "max_db": 77.99,
         "event_type": "none",
-        "start_db": 0.07,
         "color_level": "Loud"
     },
     {
@@ -212,7 +189,6 @@
         "snore_count": 45,
         "max_db": 81.47,
         "event_type": "none",
-        "start_db": 8.79,
         "color_level": "Loud"
     },
     {
@@ -221,7 +197,6 @@
         "snore_count": 50,
         "max_db": 83.91,
         "event_type": "none",
-        "start_db": 3.41,
         "color_level": "Severe"
     },
     {
@@ -230,7 +205,6 @@
         "snore_count": 39,
         "max_db": 83.07,
         "event_type": "none",
-        "start_db": 5.18,
         "color_level": "Loud"
     },
     {
@@ -239,7 +213,6 @@
         "snore_count": 27,
         "max_db": 89.79,
         "event_type": "snore",
-        "start_db": 12.87,
         "color_level": "Loud"
     },
     {
@@ -248,7 +221,6 @@
         "snore_count": 64,
         "max_db": 76.65,
         "event_type": "snore",
-        "start_db": 1.18,
         "color_level": "Loud"
     },
     {
@@ -257,7 +229,6 @@
         "snore_count": 104,
         "max_db": 88.46,
         "event_type": "none",
-        "start_db": 13.3,
         "color_level": "Loud"
     },
     {
@@ -266,7 +237,6 @@
         "snore_count": 65,
         "max_db": 84.96,
         "event_type": "snore",
-        "start_db": 17.14,
         "color_level": "Loud"
     },
     {
@@ -275,7 +245,6 @@
         "snore_count": 51,
         "max_db": 83.33,
         "event_type": "snore",
-        "start_db": 4.89,
         "color_level": "Loud"
     },
     {
@@ -284,7 +253,6 @@
         "snore_count": 74,
         "max_db": 80.48,
         "event_type": "none",
-        "start_db": 3.21,
         "color_level": "Loud"
     },
     {
@@ -293,7 +261,6 @@
         "snore_count": 55,
         "max_db": 85.27,
         "event_type": "none",
-        "start_db": 3.69,
         "color_level": "Loud"
     },
     {
@@ -302,7 +269,6 @@
         "snore_count": 62,
         "max_db": 87.31,
         "event_type": "none",
-        "start_db": 6.75,
         "color_level": "Loud"
     },
     {
@@ -311,7 +277,6 @@
         "snore_count": 64,
         "max_db": 82.53,
         "event_type": "none",
-        "start_db": 2.08,
         "color_level": "Severe"
     },
     {
@@ -320,7 +285,6 @@
         "snore_count": 73,
         "max_db": 85.54,
         "event_type": "none",
-        "start_db": 10.22,
         "color_level": "Loud"
     },
     {
@@ -329,7 +293,6 @@
         "snore_count": 67,
         "max_db": 85.7,
         "event_type": "snore",
-        "start_db": 1.67,
         "color_level": "Loud"
     },
     {
@@ -338,7 +301,6 @@
         "snore_count": 56,
         "max_db": 86.94,
         "event_type": "none",
-        "start_db": 1.16,
         "color_level": "Loud"
     },
     {
@@ -347,7 +309,6 @@
         "snore_count": 85,
         "max_db": 89.14,
         "event_type": "none",
-        "start_db": 10.24,
         "color_level": "Loud"
     },
     {
@@ -356,7 +317,6 @@
         "snore_count": 85,
         "max_db": 84.15,
         "event_type": "snore",
-        "start_db": 1.65,
         "color_level": "Loud"
     },
     {
@@ -365,7 +325,6 @@
         "snore_count": 24,
         "max_db": 70.33,
         "event_type": "snore",
-        "start_db": 5.68,
         "color_level": "Light"
     }
 ]
