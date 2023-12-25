@@ -1,4 +1,4 @@
-DIRNAME = "test-flight-user-mix"
+DIRNAME = "presentation-data"
 NONE_SNORE_AVG_NAMING = "NAvgSnore"
 NONE_MAX_SNORE_NAMING = "NMSnore"
 VERSION_PLACEHOLDER = 1035
@@ -110,7 +110,7 @@ def os_rename(old_filename, new_filename):
     print(f"Renaming {old_filename} to {new_filename}")
     old_file_path = os.path.join(DIRNAME, old_filename)
     new_file_path = os.path.join(DIRNAME, new_filename)
-    os.rename(old_file_path, new_file_path)
+    # os.rename(old_file_path, new_file_path)
     print("Done renaming")
 
 
